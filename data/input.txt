@@ -1,0 +1,3 @@
+Docker gives developers a reproducible environment for running programs.
+The source code can stay unchanged while the surrounding userspace changes.
+This file is intentionally simple so it can be edited during the seminar.

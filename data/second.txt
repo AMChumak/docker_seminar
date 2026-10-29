@@ -1,0 +1,3 @@
+Containers are processes with an isolated view of system resources.
+Images are templates used to create containers.
+Persistent data should not depend only on a container writable layer.
